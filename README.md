@@ -10,4 +10,4 @@ A BRIEF HISTORY OF FINANCIAL THEOLOGY
 
 [时间王国・第一章・互联网](./时间王国・第一章・互联网.md)
 
-[时间王国・第三章・The Kingdom of TIME](./时间王国・第三章・TheKingdom%20of%20TIME.md)
+[时间王国・第三章・The Kingdom of TIME](./时间王国・第三章・The%20Kingdom%20of%20TIME.md)
