@@ -1,7 +1,6 @@
 # THE-ALCHEMY-OF-TIME
-
-时间炼金术 
-THE ALCHEMY OF TIME
+**时间炼金术  
+THE ALCHEMY OF TIME**
 
 FROM THE KINGDOM OF TIME TO GENESIS  
 A BRIEF HISTORY OF FINANCIAL THEOLOGY  
@@ -11,3 +10,6 @@ A BRIEF HISTORY OF FINANCIAL THEOLOGY
 [时间王国・第一章・互联网](./01时间王国・第一章・互联网.md)
 
 [时间王国・第三章・The Kingdom of TIME](./03时间王国・第三章・The%20Kingdom%20of%20TIME.md)
+
+
+![The Alchemy of Time](./book.jpeg)
