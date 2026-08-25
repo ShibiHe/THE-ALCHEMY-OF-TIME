@@ -17,4 +17,6 @@ A BRIEF HISTORY OF FINANCIAL THEOLOGY
 
 [CD 的梦想宣言 Manifesto](./06CD梦想宣言Manifesto.md)
 
+[圣经神学](./07圣经神学.md)
+
 ![The Alchemy of Time](./book.jpeg)
