@@ -13,6 +13,8 @@ A BRIEF HISTORY OF FINANCIAL THEOLOGY
 
 [时间王国・第三章・The Kingdom of TIME](./03时间王国・第三章・The%20Kingdom%20of%20TIME.md)
 
+[时间王国・第四章・Gloria](./04时间王国・第四章・Gloria.md)
+
 [TIME 解决了人类哪些本质问题之诞生历史必然](./05TIME解决了人类哪些本质问题之诞生历史必然.md)
 
 [CD 的梦想宣言 Manifesto](./06CD梦想宣言Manifesto.md)
