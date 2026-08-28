@@ -21,4 +21,6 @@ A BRIEF HISTORY OF FINANCIAL THEOLOGY
 
 [圣经神学](./07圣经神学.md)
 
+[聖約神學](./08聖約神學.md)
+
 ![The Alchemy of Time](./book.jpeg)
