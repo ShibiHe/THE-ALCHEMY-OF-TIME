@@ -8,6 +8,7 @@
 > 
 > "Holy, holy, holy is the Lord Almighty; the whole earth is full of his glory."
 
+---
 
 ## 改教运动
 
