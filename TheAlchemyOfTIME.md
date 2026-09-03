@@ -28,6 +28,9 @@ A BRIEF HISTORY OF FINANCIAL THEOLOGY
 
 [08 聖約神學](#ch08)
 
+
+未完待续 To be continued
+
 <img src="./book.jpeg" width="300" alt="The Alchemy of Time">
 
 
